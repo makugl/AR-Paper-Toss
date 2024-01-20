@@ -3,7 +3,7 @@ This projects implements the mobile game ”Paper Toss” in augmented reality. 
 </br></br>
 asd
 <p align="center">
-  <img src="./pictures/startscreen.PNG" width="150" title="Startscreen of AR Paper Toss">
-  <img src="./pictures/gamescreen.PNG" width="150" title="Gamescreen of AR Paper Toss">
-  <img src="./pictures/hit.jpeg" width="150" title="Hit in AR Paper Toss">
+  <img src="./pictures/startscreen.PNG" width="250" title="Startscreen of AR Paper Toss">
+  <img src="./pictures/gamescreen.PNG" width="250" title="Gamescreen of AR Paper Toss">
+  <img src="./pictures/hit.jpeg" width="350" title="Hit in AR Paper Toss">
 </p>
